@@ -13,7 +13,7 @@ services:
   icon: "/uploads/2018/12/07/compass.jpg"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
-  heading: BioTech
+  heading: Vizualizations, maybe?
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Data Science/Visualization
 textline: |-
