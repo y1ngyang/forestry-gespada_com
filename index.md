@@ -6,6 +6,9 @@ heading: Data Scientist/Engineer
 partners:
 - "/uploads/2019/01/25/istockphoto-924930946-1024x1024.jpg"
 services:
+- heading: Big Data
+  description: DevOps
+  icon: "/uploads/2019/01/25/spark.jpg"
 - heading: 'Data Engineering '
   description: 'DevOps '
   icon: "/uploads/2019/01/25/jupyterhublogo.png"
