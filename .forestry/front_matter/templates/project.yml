@@ -27,6 +27,15 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: tag_list
+  name: malware
+  label: malware
+  hidden: false
+- type: include
+- type: select
+  config:
+    source:
+      type: documents
 pages:
 - _projects/git-basics.md
 - _projects/Malware Data Science/set-up.md
