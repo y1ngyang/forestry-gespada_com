@@ -1,12 +1,10 @@
 ---
 title: Index
-banner_image: "/uploads/2018/02/17/neurons.jpg"
+banner_image: "/uploads/2019/01/25/dspath.png"
 layout: landing-page
-heading: Data Scientist/Visualization Engineer
+heading: Data Scientist/Engineer
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2019/01/25/istockphoto-924930946-1024x1024.jpg"
 services:
 - heading: Probably GitHub Repo Link
   description: Reference to project/purpose (whether or not there's a read.me)
@@ -15,11 +13,11 @@ services:
     the biotechnology sector.
   heading: Vizualizations, maybe?
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Data Science/Visualization
+sub_heading: Image Analysis
 textline: |-
   Data Science
 
-  Ora et Labora
+  Data Engineering
 hero_button:
   text: Learn more
   href: "/about"
