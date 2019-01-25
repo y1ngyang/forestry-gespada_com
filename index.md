@@ -4,7 +4,12 @@ banner_image: "/uploads/2019/01/25/dspath.png"
 layout: landing-page
 heading: Data Scientist/Engineer
 partners:
-- "/uploads/2019/01/25/istockphoto-924930946-1024x1024.jpg"
+- "/uploads/2019/01/25/r-packages.png"
+- "/uploads/2019/01/25/prolog.png"
+- "/uploads/2019/01/25/Rlogo.svg"
+- "/uploads/2019/01/25/ssh.png"
+- "/uploads/2019/01/25/python-logo-master-v3-TM.png"
+- "/uploads/2019/01/25/linux220px-Tux.png"
 services:
 - heading: Data Science
   description: ''
