@@ -9,7 +9,7 @@ services:
 - heading: Neural Networks
   description: A.I
   icon: "/uploads/2019/01/25/Screen Shot 2019-01-09 at 9.03.31 PM.png"
-- heading: Web development
+- heading: Web development & API
   description: Static Websites
   icon: "/uploads/2019/01/25/toolsStaticWebsite.png"
 - heading: Big Data
@@ -25,10 +25,7 @@ services:
   heading: Computer Vision
   icon: "/uploads/2019/01/25/Computer_vision_technology_v2.png"
 sub_heading: Image Analysis
-textline: |-
-  Data Science
-
-  Data Engineering
+textline: Data Science/Engineering/DevOps
 hero_button:
   text: Learn more
   href: "/about"
