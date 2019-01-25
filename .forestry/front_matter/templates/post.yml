@@ -40,5 +40,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2019-01-25-a-search.md
 - _posts/learning-some-java-practicing-logic-programming-on-a-knowledge-based-database-grakn-ai.md
-- _posts/a-search.md
