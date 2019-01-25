@@ -34,7 +34,6 @@ sections:
 - type: document
   path: resume.html
   label: Resume
-  read_only: false
 - type: document
   path: _data/information.yml
   label: Contact Information
