@@ -6,9 +6,9 @@ heading: Data Scientist/Engineer
 partners:
 - "/uploads/2019/01/25/istockphoto-924930946-1024x1024.jpg"
 services:
-- heading: Probably GitHub Repo Link
-  description: Reference to project/purpose (whether or not there's a read.me)
-  icon: "/uploads/2018/12/07/compass.jpg"
+- heading: Image analysis for medical purposes
+  description: 'link to project '
+  icon: "/uploads/2019/01/25/medicalanalysis.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: Vizualizations, maybe?
