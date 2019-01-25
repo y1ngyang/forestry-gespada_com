@@ -39,10 +39,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _posts/jupyter-what-is-it.md
-- _posts/Books/a-i-book.md
-- _posts/Books/malware-data-science-book.md
-- _posts/hyperplanes.md
-- _posts/tensor.md
-- _posts/unrealistic-expectations.md
