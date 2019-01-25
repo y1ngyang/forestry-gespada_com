@@ -5,7 +5,7 @@ role:
 - advisor
 - board
 sub_heading: CEO/President
-thumbnail: "/uploads/2017/11/13/stem.png"
+thumbnail: "/uploads/2019/01/25/Arrangement_hyperplans.png"
 email: giselle@gespada.com
 linkedin: https://www.linkedin.com/in/gespada
 layout: person
