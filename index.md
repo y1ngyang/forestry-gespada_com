@@ -27,7 +27,7 @@ services:
 - description: 'project link '
   heading: Computer Vision
   icon: "/uploads/2019/01/25/Computer_vision_technology_v2.png"
-sub_heading: Image Analysis
+sub_heading: Giselle Espada
 textline: Data Science/Engineering/DevOps
 hero_button:
   text: Learn more
