@@ -41,3 +41,4 @@ fields:
   default: post
 pages:
 - _posts/learning-some-java-practicing-logic-programming-on-a-knowledge-based-database-grakn-ai.md
+- _posts/a-search.md
