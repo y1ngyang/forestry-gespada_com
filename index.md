@@ -6,6 +6,9 @@ heading: Data Scientist/Engineer
 partners:
 - "/uploads/2019/01/25/istockphoto-924930946-1024x1024.jpg"
 services:
+- heading: Neural Networks
+  description: A.I
+  icon: "/uploads/2019/01/25/Screen Shot 2019-01-09 at 9.03.31 PM.png"
 - heading: Web development
   description: Static Websites
   icon: "/uploads/2019/01/25/toolsStaticWebsite.png"
