@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: document
+  path: resume.html
+  label: Resume
+  match: "**/*"
 - type: heading
   label: Content
 - type: jekyll-posts
