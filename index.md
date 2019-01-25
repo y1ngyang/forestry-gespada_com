@@ -6,6 +6,9 @@ heading: Data Scientist/Engineer
 partners:
 - "/uploads/2019/01/25/istockphoto-924930946-1024x1024.jpg"
 services:
+- heading: 'Data Engineering '
+  description: 'DevOps '
+  icon: "/uploads/2019/01/25/jupyterhublogo.png"
 - heading: Image analysis for medical purposes
   description: 'link to project '
   icon: "/uploads/2019/01/25/medicalanalysis.png"
@@ -28,3 +31,4 @@ menu:
     weight: 1
 
 ---
+![](/uploads/2019/01/25/jupyterhub.png)
