@@ -7,7 +7,7 @@ partners:
 - "/uploads/2019/01/25/istockphoto-924930946-1024x1024.jpg"
 services:
 - heading: Malware Data Science
-  description: ''
+  description: Cybersecurity
   icon: "/uploads/2019/01/25/malwarescience_cover-front-1.png"
 - heading: Neural Networks
   description: A.I
