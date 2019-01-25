@@ -9,10 +9,9 @@ services:
 - heading: Image analysis for medical purposes
   description: 'link to project '
   icon: "/uploads/2019/01/25/medicalanalysis.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: Vizualizations, maybe?
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: 'project link '
+  heading: Computer Vision
+  icon: "/uploads/2019/01/25/Computer_vision_technology_v2.png"
 sub_heading: Image Analysis
 textline: |-
   Data Science
