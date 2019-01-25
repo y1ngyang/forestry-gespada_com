@@ -6,6 +6,9 @@ heading: Data Scientist/Engineer
 partners:
 - "/uploads/2019/01/25/istockphoto-924930946-1024x1024.jpg"
 services:
+- heading: Web development
+  description: Static Websites
+  icon: "/uploads/2019/01/25/toolsStaticWebsite.png"
 - heading: Big Data
   description: DevOps
   icon: "/uploads/2019/01/25/spark.jpg"
@@ -34,4 +37,3 @@ menu:
     weight: 1
 
 ---
-![](/uploads/2019/01/25/jupyterhub.png)
