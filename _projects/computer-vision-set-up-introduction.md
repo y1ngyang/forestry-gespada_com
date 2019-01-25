@@ -2,7 +2,7 @@
 tags: []
 title: Computer Vision Set-up Introduction
 sub_heading: ''
-banner_image: "/uploads/2019/01/25/denseposeimages.jpg"
+banner_image: "/uploads/2019/01/25/densepose5-Figure7-1.png"
 slug: ''
 malware: []
 undefined: ''
