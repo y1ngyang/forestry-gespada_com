@@ -3,7 +3,7 @@ layout: post
 title: Learning some java, practicing logic programming on a knowledge based database,
   Grakn.AI.
 sub_heading: ''
-date: ''
+date: 
 tags: []
 banner_image: ''
 related_posts: []
