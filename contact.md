@@ -12,7 +12,6 @@ menu:
   navigation:
     identifier: _contact
     weight: 5
-published: false
 
 ---
 ## Hours of Operation
