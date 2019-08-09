@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2019/01/25/Arrangement_hyperplans.png"
+banner_image: "/uploads/2019/08/09/contact-us.jpg"
 heading: Contact Giselle Espada
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
