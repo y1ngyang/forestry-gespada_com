@@ -36,10 +36,10 @@ fields:
     source:
       type: documents
 pages:
+- _projects/git-basics.md
+- _projects/web-deleopment.md
 - _projects/backwardchaining.md
 - _projects/machine-learning-with-a-webcam.md
 - _projects/computer-vision-set-up-introduction.md
 - _projects/how-to-set-up-jupyterhub.md
-- _projects/web-deleopment.md
-- _projects/git-basics.md
 - _projects/how-i-used-a-i.md
